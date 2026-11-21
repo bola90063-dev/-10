@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'UthmanicHafs';
+  src: url('/fonts/hafs.18.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alyamama';
+  src: url('https://fonts.cdnfonts.com/s/95741/Alyamama-Black.woff') format('woff'),
+       local('Alyamama');
+  font-weight: 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Burd';
+  src: local('Burd'), local('Cairo');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AlkhalilSquashed';
+  src: local('AlkhalilSquashed'), local('Cairo');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AlkhalilRound';
+  src: local('AlkhalilRound'), local('Cairo');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FormaDJRArabicText';
+  src: local('FormaDJRArabicText'), local('Cairo');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Milligram Arabic';
+  src: local('Milligram Arabic'), local('Cairo');
+  font-weight: 800;
+  font-style: normal;
+}
